@@ -1,6 +1,6 @@
 body
 {
-    color:antiquewhite;
+    color:goldenrod;
 }
 
 html {
@@ -20,7 +20,7 @@ ul {
 
 li a {
     text-decoration: none;
-    color: white;
+    color: antiquewhite;
     margin: 40px;
     font-weight: 900;
     font-size: 20px;
