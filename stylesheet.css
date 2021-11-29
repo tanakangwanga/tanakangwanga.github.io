@@ -1,8 +1,10 @@
-body, html
+html {
+    background: url('images/IMG_2995.png') no-repeat center center fixed;
+    background-size: cover;
+body
 {
     color:peru;
     background-color:mistyrose;
-    height: 100%;
 }
 
 nav {
