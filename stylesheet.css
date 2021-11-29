@@ -59,11 +59,24 @@ footer {
     background-color: antiquewhite;
 }
 
+#box2 {
+    border-radius: 5px;
+    max-width: 10%;
+    padding: 4px 4px;
+    margin: 10px auto;
+    background-color: white;
+    display: flex;
+}
+
 .myself {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+h2 {
+    text-align:center;
 }
 
 h3 {
