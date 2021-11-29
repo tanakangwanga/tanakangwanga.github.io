@@ -36,6 +36,11 @@ h1 {
     font-size: 300%;
 }
 
+mark {
+    background-color:antiquewhite;
+    opacity: 0.8;
+}
+
 footer {
     bottom:0;
     position:absolute;
