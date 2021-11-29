@@ -8,6 +8,10 @@ body
     float: top;
 }
 
+ul {
+    list-style-type: none;
+}
+
 li {
     text-decoration: none;
     list-style: none;
