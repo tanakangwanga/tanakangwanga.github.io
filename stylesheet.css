@@ -3,3 +3,11 @@ body
   color:peru;
   background-color:mistyrose;
 }
+
+.NavigationBar {
+    float: left;
+}
+
+li a {
+    text-decoration: none;
+}
