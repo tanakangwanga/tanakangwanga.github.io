@@ -8,6 +8,8 @@ body
     float: left;
 }
 
-li a {
+li {
     text-decoration: none;
+    list-style: none;
+    display: inline;
 }
