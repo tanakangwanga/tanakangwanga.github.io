@@ -59,6 +59,14 @@ footer {
     background-color: antiquewhite;
 }
 
+#box2 {
+    border-radius: 5px;
+    max-width: 50%;
+    padding: 4px 4px;
+    margin: 15px;
+    background-color: antiquewhite;
+}
+
 .myself {
     display: block;
     margin-left: auto;
